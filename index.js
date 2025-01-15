@@ -200,8 +200,6 @@ form9 &&
       } else {
         output = "Nolga bolish mumkin emas!";
       }
-    } else {
-      output = "Operatsiyani tanlang.";
     }
 
     result.textContent = output;
